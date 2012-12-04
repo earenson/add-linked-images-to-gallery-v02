@@ -1,7 +1,9 @@
 add-linked-images-to-gallery-v02
 ================================
 
-A fork of BBQ Iguana's Wordpress plugin to import and re-attach externally linked images in posts.
+A fork of BBQ Iguana's (http://www.bbqiguana.com/) Wordpress plugin to import and 
+re-attach externally linked images in posts. The plugin is no longer actively maintained,
+so I'm sharing my edits here.
 
 I needed a way to import images from content imported from a ColdFusion-powered site, 
 where image source URLs didn't include the file extension. Most URLs looked something like:
